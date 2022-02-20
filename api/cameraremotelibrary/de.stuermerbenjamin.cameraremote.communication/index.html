@@ -408,6 +408,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#functions" class="md-nav__link">
+    Functions
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -434,20 +441,63 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="-byte-buffer-util/">ByteBufferUtil</a></td>
-<td>[Camera remote library]<br>open class <a href="-byte-buffer-util/">ByteBufferUtil</a></td>
-</tr>
-<tr>
 <td><a href="-object-property-code/">ObjectPropertyCode</a></td>
 <td>[Camera remote library]<br>object <a href="-object-property-code/">ObjectPropertyCode</a></td>
 </tr>
 <tr>
-<td><a href="-ptp-constants/">PtpConstants</a></td>
-<td>[Camera remote library]<br>open class <a href="-ptp-constants/">PtpConstants</a></td>
-</tr>
-<tr>
 <td><a href="-response-code/">ResponseCode</a></td>
 <td>[Camera remote library]<br>object <a href="-response-code/">ResponseCode</a><br>All Responses contain a 30-byte response dataset including a response code, a sessionId, a transactionId and a parameter field.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="functions">Functions<a class="headerlink" href="#functions" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Summary</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="code-to-string/">codeToString</a></td>
+<td>[Camera remote library]<br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="code-to-string/">codeToString</a>(type: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a><br>Returns a string representation of the code field an PTP packet.</td>
+</tr>
+<tr>
+<td><a href="constant-to-string/">constantToString</a></td>
+<td>[Camera remote library]<br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="constant-to-string/">constantToString</a>(clazz: <a href="https://developer.android.com/reference/kotlin/java/lang/Class.html">Class</a>&lt;*&gt;): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a><br>Returns the name of the constant that has the specified constant in the specified clazz.</td>
+</tr>
+<tr>
+<td><a href="datatypeto-string/">datatypetoString</a></td>
+<td>[Camera remote library]<br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="datatypeto-string/">datatypetoString</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></td>
+</tr>
+<tr>
+<td><a href="event-to-string/">eventToString</a></td>
+<td>[Camera remote library]<br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="event-to-string/">eventToString</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></td>
+</tr>
+<tr>
+<td><a href="get-datatype-size/">getDatatypeSize</a></td>
+<td>[Camera remote library]<br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="get-datatype-size/">getDatatypeSize</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a></td>
+</tr>
+<tr>
+<td><a href="object-format-to-string/">objectFormatToString</a></td>
+<td>[Camera remote library]<br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="object-format-to-string/">objectFormatToString</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></td>
+</tr>
+<tr>
+<td><a href="operation-to-string/">operationToString</a></td>
+<td>[Camera remote library]<br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="operation-to-string/">operationToString</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></td>
+</tr>
+<tr>
+<td><a href="property-to-string/">propertyToString</a></td>
+<td>[Camera remote library]<br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="property-to-string/">propertyToString</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></td>
+</tr>
+<tr>
+<td><a href="response-to-string/">responseToString</a></td>
+<td>[Camera remote library]<br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="response-to-string/">responseToString</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a><br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="response-to-string/">responseToString</a>(response: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></td>
+</tr>
+<tr>
+<td><a href="type-to-string/">typeToString</a></td>
+<td>[Camera remote library]<br>fun <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a>.<a href="type-to-string/">typeToString</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a></td>
 </tr>
 </tbody>
 </table>
