@@ -4,7 +4,7 @@ A connection library for Android to remote control DSLR / DSLM cameras, connecte
 ## Getting started
 
 ```kotlin
-implementation("de.stuermerbenjamin:remotecamera-free:<latest-version>")
+implementation("de.stuermerbenjamin:cameraremote-free:<latest-version>")
 ```
 
 ## License
