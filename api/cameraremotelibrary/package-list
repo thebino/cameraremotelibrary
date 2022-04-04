@@ -1,5 +1,10 @@
 $dokka.format:gfm-v1
 $dokka.linkExtension:md
+$dokka.location:de.stuermerbenjamin.cameraremote.communication.operations.sony////PointingToDeclaration/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication.operations.sony/index.md
+$dokka.location:de.stuermerbenjamin.cameraremote.communication.operations.sony/SonyAutoFocusOperation///PointingToDeclaration/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication.operations.sony/-sony-auto-focus-operation/index.md
+$dokka.location:de.stuermerbenjamin.cameraremote.communication.operations.sony/SonyAutoFocusOperation/SonyAutoFocusOperation/#de.stuermerbenjamin.cameraremote.ICamera/PointingToDeclaration/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication.operations.sony/-sony-auto-focus-operation/-sony-auto-focus-operation.md
+$dokka.location:de.stuermerbenjamin.cameraremote.communication.operations.sony/SonyAutoFocusOperation/encodeCommand/#java.nio.ByteBuffer/PointingToDeclaration/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication.operations.sony/-sony-auto-focus-operation/encode-command.md
+$dokka.location:de.stuermerbenjamin.cameraremote.communication.operations.sony/SonyAutoFocusOperation/exec/#de.stuermerbenjamin.cameraremote.IO/PointingToDeclaration/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication.operations.sony/-sony-auto-focus-operation/exec.md
 $dokka.location:de.stuermerbenjamin.cameraremote.communication////PointingToDeclaration/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/index.md
 $dokka.location:de.stuermerbenjamin.cameraremote.communication//codeToString/kotlin.Int#kotlin.Int/PointingToDeclaration/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/code-to-string.md
 $dokka.location:de.stuermerbenjamin.cameraremote.communication//constantToString/kotlin.Int#java.lang.Class[*]/PointingToDeclaration/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/constant-to-string.md
@@ -429,6 +434,7 @@ $dokka.location:de.stuermerbenjamin.cameraremote/CameraStorageListener/onImageHa
 $dokka.location:de.stuermerbenjamin.cameraremote/CameraStorageListener/onStorageFound/#kotlin.Int#kotlin.String?/PointingToDeclaration/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-storage-listener/on-storage-found.md
 de.stuermerbenjamin.cameraremote
 de.stuermerbenjamin.cameraremote.communication
+de.stuermerbenjamin.cameraremote.communication.operations.sony
 de.stuermerbenjamin.cameraremote.data
 de.stuermerbenjamin.cameraremote.data.nikon
 
