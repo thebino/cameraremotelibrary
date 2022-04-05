@@ -2,2172 +2,2172 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/CHANGELOG/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-image-listener/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-image-listener/on-image-info-retrieved/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-image-listener/on-image-retrieved/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/-camera-interface/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/connect/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/disconnect/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/focus/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/get-device-info/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/get-liveview-picture/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/list-images/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/list-storages/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/retrieve-picture-info/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/retrieve-picture/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/start-liveview/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/stop-liveview/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface/trigger-capture/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-camera-started/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-camera-stopped/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-captured-picture-received/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-error/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-focus-ended/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-focus-points-changed/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-focus-started/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-liveview-data/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-liveview-started/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-liveview-stopped/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-object-added/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-property-changed/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-property-desc-changed/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-interface-listener/on-property-state-changed/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-storage-listener/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-storage-listener/on-all-storages-found/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-storage-listener/on-image-handles-retrieved/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote/-camera-storage-listener/on-storage-found/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/code-to-string/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/constant-to-string/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/datatypeto-string/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/event-to-string/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/get-datatype-size/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/object-format-to-string/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/operation-to-string/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/property-to-string/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/response-to-string/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/type-to-string/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-accepted/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-begin-time/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-declined/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-end-time/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-location/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-optional-attendees/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-owner/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-reminder-time/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-required-attendees/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-resources/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-status/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-activity-tentative/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-album-artist/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-album-name/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-allowed-folder-contents/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-artist/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-association-desc/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-association-type/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-audio-bit-depth/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-audio-bit-rate/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-audio-w-a-v-e-codec/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-birthdate/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-bitrate-type/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-body-text/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-buffer-size/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-business-web-address/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-byte-bookmark/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-composer/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-copyright-information/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-corrupt-unplayable/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-created-by/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-credits/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-d-r-m-status/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-date-added/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-date-authored/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-date-created/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-date-modified/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-description/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-display-name/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-duration/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-editor/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-effective-rating/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-email-business1/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-email-business2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-email-others/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-email-personal1/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-email-personal2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-email-primary/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-encoding-profile/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-encoding-quality/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-exposure-index/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-exposure-time/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-family-name/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-fax-number-business/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-fax-number-personal/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-fax-number-primary/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-fnumber/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-frames-per-thousand-seconds/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-genre/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-given-name/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-height/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-hidden/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-image-bit-depth/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-instant-messenger-address/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-instant-messenger-address2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-instant-messenger-address3/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-is-colour-corrected/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-is-cropped/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-key-frame-distance/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-keywords/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-language-locale/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-last-accessed/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-last-build-date/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-lyrics/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-media-g-u-i-d/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-message-b-c-c/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-message-c-c/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-message-read/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-message-received-time/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-message-sender/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-message-to/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-meta-genre/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-middle-names/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-mood/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-name/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-non-consumable/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-number-of-channels/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-object-bookmark/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-object-file-name/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-object-format/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-object-size/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-organization-name/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-origin-location/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-original-release-date/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-owner/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-pager-number/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-parent-object/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-parental-rating/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-persistent-unique-object-identifier/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-personal-web-address/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phone-number-business/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phone-number-business2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phone-number-mobile/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phone-number-mobile2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phone-number-others/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phone-number-personal/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phone-number-personal2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phone-number-primary/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phonetic-family-name/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phonetic-given-name/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-phonetic-organization-name/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-business-city/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-business-country/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-business-full/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-business-line1/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-business-line2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-business-postal-code/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-business-region/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-other-city/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-other-country/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-other-full/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-other-line1/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-other-line2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-other-postal-code/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-other-region/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-personal-city/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-personal-country/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-personal-full/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-personal-line1/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-personal-line2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-personal-postal-code/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-postal-address-personal-region/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-prefix/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-primary-web-address/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-priority/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-produced-by/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-producer-serial-number/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-property-bag/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-protection-status/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-rating/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-representative-sample-data/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-representative-sample-duration/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-representative-sample-format/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-representative-sample-height/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-representative-sample-size/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-representative-sample-width/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-role/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-sample-rate/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-scan-type/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-skip-count/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-source/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-storage-i-d/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-sub-description/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-subject/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-subscription-content-i-d/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-subtitle/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-suffix/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-sync-i-d/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-system-object/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-time-bookmark/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-timeto-live/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-total-bit-rate/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-track/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-u-r-l-destination/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-u-r-l-reference/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-u-r-l-source/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-use-count/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-video-bit-rate/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-video-four-c-c-codec/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-webmaster/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-object-property-code/-width/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-access-denied/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-capture-already-terminated/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-device-busy/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-device-prop-not-supported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-e-k_-filename-conflicts/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-e-k_-filename-invalid/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-e-k_-filename-required/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-e-x-t-e-n-s-i-o-n/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-e-x-t-e-n-s-i-o-n_-m-a-s-k/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-general-error/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-group-not-supported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-incomplete-transfer/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-code-format/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-dataset/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-device-prop-format/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-device-prop-value/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-object-format-code/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-object-handle/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-object-prob-code/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-object-prob-format/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-object-prob-value/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-object-reference/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-parameter/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-parent-object/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-storage-id/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-invalid-transaction-i-d/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-nikon_-property-read-only/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-no-thumbnail-present/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-no-valid-object-info/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-o-k/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-object-prob-not-supported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-object-too-large/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-object-write-protected/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-operation-not-supported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-parameter-not-supported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-partial-deletion/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-self-test-failed/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-session-already-opened/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-session-not-open/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-specification-by-depth-unsupported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-specification-by-format-unsupported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-specification-by-group-unsupported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-specification-of-destination-unsupported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-store-full/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-store-not-available/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-store-read-only/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-transaction-canceled/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-undefined/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/-unknown-vendor-code/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication/-response-code/to-string/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication.operations.sony/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication.operations.sony/-sony-auto-focus-operation/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication.operations.sony/-sony-auto-focus-operation/-sony-auto-focus-operation/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication.operations.sony/-sony-auto-focus-operation/encode-command/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.communication.operations.sony/-sony-auto-focus-operation/exec/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/-device-info/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/capture-formats/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/device-properties-supported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/device-version/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/events-supported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/functional-mode/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/image-formats/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/manufacture/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/model/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/operations-supported/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/serial-number/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/standard-version/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/vendor-extension-desc/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/vendor-extension-id/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-device-info/vendor-extension-version/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-lens-direction/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-lens-direction/direction/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-lens-direction/-f-a-r/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-lens-direction/-n-e-a-r/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-lens-speed/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-lens-speed/speed/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-lens-speed/-h-a-r-d/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-lens-speed/-m-e-d-i-u-m/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-lens-speed/-s-o-f-t/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/-liveview-data/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/bitmap/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/has-af-frame/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/has-histogram/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/histogram/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/zoom-factor/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/zoom-rect-bottom/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/zoom-rect-left/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/zoom-rect-right/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-liveview-data/zoom-rect-top/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-a-a-c/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-a-i-f-f/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-a-m-r/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-a-s-f/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-a-s-x-playlist/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-a-t-s-c-t-s/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-a-v-c-h-d/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-a-v-i/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-appointment/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-audio-album/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-audio-playlist/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-audio-video-playlist/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-bookmark/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-chaptered-production/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-contact-group/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-contact/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-document/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-image-album/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-mediacast/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-message-folder/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-message/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-multimedia-album/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-note/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-task/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-video-album/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-abstract-video-playlist/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-association/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-audible/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-b-m-p/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-c-i-f-f/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-container-m-p2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-d-p-o-f/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-d-v-b-t-s/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-e-x-i-f_-j-p-e-g/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-eos-c-r-w/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-eos-c-r-w3/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-eos-m-o-v/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-executable/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-f-l-a-c/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-flash-pix/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-g-i-f/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-g-p-container/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-g2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-h-t-m-l/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-j-f-i-f/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-j-p-e-g-x-r/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-j-p-x/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-j-p2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-m-h-t-compiled-h-t-m-l-document/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-m-p-e-g/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-m-p-l-playlist/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-m-p3/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-m-p4/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-m3-u-playlist/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-microsoft-excel-spreadsheet/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-microsoft-powerpoint-presentation/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-microsoft-word-document/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-o-g-g/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-p-c-d/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-p-i-c-t/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-p-l-s-playlist/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-p-n-g/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-q-c-e-l-p/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-script/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-t-i-f-f/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-t-i-f-f_-e-p/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-t-i-f-f_-i-t/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-text/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-appointment/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-audio/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-bookmark/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-collection/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-contact/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-document/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-firmware/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-image-object/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-message/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-non-image-object/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-note/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-reserved1/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-reserved2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined-task/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-undefined/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-video-w-m-v/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-w-a-v/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-w-b-m-p/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-w-m-a/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-w-p-l-playlist/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-windows-image-format/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/-x-m-l-document/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/i-calendar/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/v-calendar10/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/v-card2/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-format/v-card3/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-info/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-object-info/-object-info/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-storage-info/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-storage-info/-storage-info/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-vendor-code/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-vendor-code/-v-e-n-d-o-r_-i-d_-c-a-n-o-n/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-vendor-code/-v-e-n-d-o-r_-i-d_-c-a-s-i-o/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-vendor-code/-v-e-n-d-o-r_-i-d_-f-u-j-i/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-vendor-code/-v-e-n-d-o-r_-i-d_-k-o-d-a-k/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-vendor-code/-v-e-n-d-o-r_-i-d_-k-o-n-i-c-a_-m-i-n-o-l-t-a/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-vendor-code/-v-e-n-d-o-r_-i-d_-n-i-k-o-n/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-vendor-code/-v-e-n-d-o-r_-i-d_-o-l-y-m-p-u-s/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-vendor-code/-v-e-n-d-o-r_-i-d_-r-i-c-o-h/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data/-vendor-code/-v-e-n-d-o-r_-i-d_-s-o-n-y/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data.nikon/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data.nikon/-nikon-liveview-data/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data.nikon/-nikon-liveview-data/-nikon-liveview-data/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data.nikon/-nikon-liveview-data/nikon-af-frame-center-x/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data.nikon/-nikon-liveview-data/nikon-af-frame-center-y/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data.nikon/-nikon-liveview-data/nikon-af-frame-height/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data.nikon/-nikon-liveview-data/nikon-af-frame-width/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data.nikon/-nikon-liveview-data/nikon-whole-height/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thebino.github.io/cameraremotelibrary/api/cameraremotelibrary/de.stuermerbenjamin.cameraremote.data.nikon/-nikon-liveview-data/nikon-whole-width/</loc>
-         <lastmod>2022-04-04</lastmod>
+         <lastmod>2022-04-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
